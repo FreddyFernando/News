@@ -1,4 +1,5 @@
 # News
+---------------
 # https://www.theregister.co.uk/2017/08/16/got_leak_arrests/?mt=1504882011963 | HBO Game Of Thrones leak: Four 'techies' arrested in India • The Register
 # https://www.bleepingcomputer.com/news/security/backdoor-found-in-enterprise-software-used-by-banks-tech-and-energy-companies/ | Backdoor Found in Enterprise Software Used by Banks, Tech, and Energy Companies
 # http://thehackernews.com/2017/08/android-8-oreo.html | Android 8.0 Oreo Released – 11 New Features That Make Android Even Better
