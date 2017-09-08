@@ -1,5 +1,6 @@
 # News
 ---------------
+# https://www.reuters.com/article/us-india-court-privacy/indian-courts-privacy-ruling-is-blow-to-government-idUSKCN1B40CE | Indian court's privacy ruling is blow to government
 # https://www.theregister.co.uk/2017/08/16/got_leak_arrests/?mt=1504882011963 | HBO Game Of Thrones leak: Four 'techies' arrested in India • The Register
 # https://www.bleepingcomputer.com/news/security/backdoor-found-in-enterprise-software-used-by-banks-tech-and-energy-companies/ | Backdoor Found in Enterprise Software Used by Banks, Tech, and Energy Companies
 # http://thehackernews.com/2017/08/android-8-oreo.html | Android 8.0 Oreo Released – 11 New Features That Make Android Even Better
@@ -8,9 +9,7 @@
 # https://threatpost.com/telnet-credential-leak-reinforces-bleak-state-of-iot-security/127702/?utm_source=dlvr.it&utm_medium=twitter | Telnet Credential Leak Reinforces Bleak State of IoT Security | Threatpost | The first stop for security news
 # http://www.zdnet.com/article/dozens-of-online-file-converter-sites-are-unsafe-to-use-warns-researcher/#ftag=RSSbaffb68 | A server hosting dozens of popular file converter sites has been hacked | ZDNet
 # http://securityaffairs.co/wordpress/62531/security/bitcoin-miners-exposed.html | Expert discovered 2,893 Bitcoin miners left exposed on the InternetSecurity Affairs
-# http://www.dw.com/en/germanys-facial-recognition-pilot-program-divides-public/a-40228816?maca=en-Twitter-sharing | Germany′s facial recognition pilot program divides public | Germany | DW | 24.08.2017
 # https://www.theverge.com/2017/8/24/16197694/cia-fake-software-update-hacking-wikileaks-vault-7 | The CIA built a fake software update system to spy on intel partners - The Verge
-# https://www.reuters.com/article/us-india-court-privacy/indian-courts-privacy-ruling-is-blow-to-government-idUSKCN1B40CE | Indian court's privacy ruling is blow to government
 # https://www.welivesecurity.com/2017/09/04/six-million-instagram-accounts-hacked/?utm_source=dlvr.it&utm_medium=twitter | Six million Instagram accounts have been hacked using a bug in the API
 # https://www.csoonline.com/article/3222068/hacking/465000-abbott-pacemakers-vulnerable-to-hacking-need-a-firmware-fix.html#tk.rss_news | 465,000 Abbott pacemakers vulnerable to hacking, need a firmware fix
 # https://www.buzzfeed.com/kevincollier/beset-by-fraud-wannacry-heros-legal-fund-refunds-all?utm_term=.lr3n5belD#.ey3EdkAPo | Fraud Forces WannaCry Hero's Legal Fund To Refund All Donations
@@ -24,7 +23,6 @@
 # https://lgtm.com/blog/apache_struts_CVE-2017-9805_announcement | Severe security vulnerability found in Apache Struts using lgtm.com (CVE-2017-9805) — Blog - lgtm
 # https://safeum.com/blog/2712-mastercard-is-ignoring-a-critical-flaw-that-allows-hackers-to-spoof-valid-payments.html | SafeUM Blog - Mastercard is ignoring a critical flaw that allows hackers to spoof valid payments
 # https://www.bleepingcomputer.com/news/security/bug-in-windows-kernel-could-prevent-security-software-from-identifying-malware/ | Bug in Windows Kernel Could Prevent Security Software From Identifying Malware
-# https://pbs.twimg.com/media/DJD71mlW0AAi9HL.jpg | DJD71mlW0AAi9HL.jpg (712×161)
 # http://www.sciencealert.com/breaking-a-brand-new-type-of-qubit-has-been-unveiled-and-it-finally-makes-quantum-computers-scalable?utm_source=Facebook&utm_medium=Branded+Content&utm_campaign=ScienceNaturePage | Breaking: An entirely new type of quantum computing has been invented - ScienceAlert
 # https://www.bleepingcomputer.com/news/security/hackers-can-use-ultrasounds-to-take-control-of-alexa-siri-cortana-others/ | Hackers Can Use Ultrasounds to Take Control of Alexa, Siri, Cortana, Others
 # https://www.schneier.com/blog/archives/2017/09/shadowbrokers_r.html | ShadowBrokers Releases NSA UNITEDRAKE Manual - Schneier on Security
