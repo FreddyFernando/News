@@ -1,4 +1,4 @@
-# News
+# News by www.twitter.com/FreddyFernando_
 ---------------
 # https://www.reuters.com/article/us-india-court-privacy/indian-courts-privacy-ruling-is-blow-to-government-idUSKCN1B40CE | Indian court's privacy ruling is blow to government
 # https://www.theregister.co.uk/2017/08/16/got_leak_arrests/?mt=1504882011963 | HBO Game Of Thrones leak: Four 'techies' arrested in India • The Register
