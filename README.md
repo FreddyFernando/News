@@ -6,8 +6,6 @@
 # http://thehackernews.com/2017/08/android-8-oreo.html | Android 8.0 Oreo Released – 11 New Features That Make Android Even Better
 # https://cointelegraph.com/news/enigmas-hack-500000-of-ether-stolen-accounts-compromised | Enigma’s Hack: $500,000 of Ether Stolen, Accounts Compromised
 # http://thehackernews.com/2017/08/sarahah-privacy.html | Beware! Viral Sarahah App Secretly Steals Your Entire Contact List
-# https://threatpost.com/telnet-credential-leak-reinforces-bleak-state-of-iot-security/127702/?utm_source=dlvr.it&utm_medium=twitter | Telnet Credential Leak Reinforces Bleak State of IoT Security | Threatpost | The first stop for security news
-# http://www.zdnet.com/article/dozens-of-online-file-converter-sites-are-unsafe-to-use-warns-researcher/#ftag=RSSbaffb68 | A server hosting dozens of popular file converter sites has been hacked | ZDNet
 # http://securityaffairs.co/wordpress/62531/security/bitcoin-miners-exposed.html | Expert discovered 2,893 Bitcoin miners left exposed on the InternetSecurity Affairs
 # https://www.theverge.com/2017/8/24/16197694/cia-fake-software-update-hacking-wikileaks-vault-7 | The CIA built a fake software update system to spy on intel partners - The Verge
 # https://www.welivesecurity.com/2017/09/04/six-million-instagram-accounts-hacked/?utm_source=dlvr.it&utm_medium=twitter | Six million Instagram accounts have been hacked using a bug in the API
@@ -29,3 +27,4 @@
 # https://blog.malwarebytes.com/101/2017/09/google-reminds-website-owners-to-move-to-https-before-october-deadline/ | Google reminds website owners to move to HTTPS before October deadline - Malwarebytes Labs | Malwarebytes Labs
 # https://itsecuritycentral.teramind.co/2017/08/28/marcus-hutchins-arrest-wannacry-malware/ | Marcus Hutchins Malware Arrest Saga Continues | IT Security Central
 # https://www.bleepingcomputer.com/news/security/eight-chrome-extensions-hijacked-to-deliver-malicious-code-to-4-8-million-users/ | Eight Chrome Extensions Hijacked to Deliver Malicious Code to 4.8 Million Users
+# https://nakedsecurity.sophos.com/2017/09/08/equifax-data-breach-what-you-need-to-know/amp/ | Equifax Data Leak
